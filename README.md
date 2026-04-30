@@ -194,6 +194,14 @@ By default, Excel runs hidden for faster automation. To see changes in real-time
 
 The AI will display the Excel window so you can watch every operation happen live - great for learning or verifying changes!
 
+## ❓ FAQ
+
+**Q: What type of Excel work can I do with ExcelMcp?**
+
+ExcelMcp supports data entry, formulas, formatting, worksheets, Excel Tables, PivotTables, charts, Power Query, DAX/Data Model, VBA macros, named ranges, slicers, conditional formatting, screenshots, and window management — 230 operations in total.
+
+📚 **[Full FAQ & Use Cases →](docs/FAQ.md)** — detailed answers and example prompts for every category.
+
 ## 📋 Additional Information
 
 📚 **[CLI Guide →](src/ExcelMcp.CLI/README.md)** | **[CLI Skill for Agents →](skills/excel-cli/SKILL.md)** | **[MCP Server Guide →](src/ExcelMcp.McpServer/README.md)** | **[All Agent Skills →](skills/README.md)**
